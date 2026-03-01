@@ -333,7 +333,7 @@ function driver() {
   handlePromise(successPromise);
   handlePromise(conditionPromise);
 
-  console.log("----- ES6 ASSIGNMENT DRIVER END -----");
+  console.log("---- ES6 ASSIGNMENT DRIVER END ----");
 }
 
 /*
